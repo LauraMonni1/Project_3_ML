@@ -1,0 +1,7 @@
+project3_env
+requirements.in
+requirements-dev.in
+__pycache__
+figures
+.ipynb_checkpoints/
+project_3_ideas.pptx
